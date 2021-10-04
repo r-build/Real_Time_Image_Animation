@@ -45,7 +45,7 @@ pyrsistent==0.16.0
 python-dateutil==2.7.3
 pytz==2018.5
 PyWavelets==0.5.2
-pywin32==227
+pywin32==301
 pywinpty==0.5.7
 PyYAML==5.1
 pyzmq==19.0.1
